@@ -21,7 +21,6 @@ function Bar(props){
                 onChange ={handlechange} 
                 onKeyDown={handleclick} 
                 id="input" />
-            <button id="search_button" onClick={handleclick} >Search</button>
         </div>
     );
 }
