@@ -4,7 +4,7 @@ import Bar from './search_bar.jsx';
 import React, { useState } from "react";
 
 function App() {
-	const ids = Array.from({length:100},function(_,i){
+	const ids = Array.from({length:1025},function(_,i){
 		return i+1;
 	})
 
